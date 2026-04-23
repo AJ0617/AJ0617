@@ -16,7 +16,7 @@ CSS
 ## Want to learn:
 Javascript
 
-##Looking for repositories for project based learning
+## Looking for repositories for project based learning
 
 <!--
 **AJ0617/AJ0617** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
