@@ -1,22 +1,22 @@
-## Hi there 👋
-## Currently Working on:
-  TO-DO manager
+# Hi there 👋
+### Currently Working on:
+- TO-DO manager
 
-## Learning more about:
-VEX EZ-Template
-  -Making a repo template with features and C++ basics
+### Learning more about:
+- VEX EZ-Template
+  - Making a repo template with features and C++ basics
   
-## Languages I know:
-Java
+### Languages I know:
+- Java
 
-## Currently learning:
-HTML,
-CSS
+### Currently learning:
+- HTML
+- CSS
+- C++
 
-## Want to learn:
-Javascript
+### Want to learn:
+- Javascript
 
-## Looking for repositories for project based learning
 
 <!--
 **AJ0617/AJ0617** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
