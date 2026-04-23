@@ -1,19 +1,24 @@
 ## Hi there 👋
 Currently Working on:
+
   TO-DO manager
 
 Learning more about:
+
 VEX EZ-Template
   -Making a repo template with features and C++ basics
 
 Languages I know:
+
 Java
 
 Currently learning:
+
 HTML
 CSS
 
 Want to learn:
+
 Javascript
 
 <!--
