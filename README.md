@@ -1,6 +1,6 @@
 # Hi there 👋
 ### Currently Working on:
-- TO-DO manager
+- A TO-DO manager
 
 ### Learning more about:
 - VEX EZ-Template
@@ -16,6 +16,7 @@
 
 ### Want to learn:
 - Javascript
+- How to Create an AI assistant like Jarvis
 
 
 <!--
