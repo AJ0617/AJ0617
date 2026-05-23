@@ -3,7 +3,7 @@
 - A TO-DO manager
 
 ### Learning more about:
-- VEX EZ-Template
+- VEX V5 Template
   - Making a repo template with features and C++ basics
   
 ### Languages I know:
