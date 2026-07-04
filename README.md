@@ -1,6 +1,7 @@
 # Hi there 👋
 ### Currently Working on:
 - A TO-DO manager
+- -
 
 ### Learning more about:
 - VEX V5 Template
@@ -16,8 +17,7 @@
 
 ### Want to learn:
 - Javascript
-- How to Create an AI assistant like Jarvis
-
+- Typescript
 
 <!--
 **AJ0617/AJ0617** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
